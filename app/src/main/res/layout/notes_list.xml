@@ -4,7 +4,7 @@
     android:layout_height="wrap_content"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     app:cardBackgroundColor="@color/white"
-    android:id="@+id/notes_containter"
+    android:id="@+id/notes_container"
     app:cardCornerRadius="8dp"
     app:cardElevation="8dp"
     android:layout_margin="8dp">
